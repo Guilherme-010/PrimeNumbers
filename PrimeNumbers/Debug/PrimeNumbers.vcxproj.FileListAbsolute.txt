@@ -1,0 +1,2 @@
+D:\Programação\PrimeNumbers\Debug\PrimeNumbers.exe
+D:\Programação\PrimeNumbers\Debug\PrimeNumbers.pdb
